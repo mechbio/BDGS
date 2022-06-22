@@ -1,0 +1,6 @@
+# Exclude output files
+# */data/*
+# */fig/*
+
+# Exclude works in progress
+wip/
