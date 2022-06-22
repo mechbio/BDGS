@@ -3,7 +3,7 @@
 BDGS is a physics simulation package for simulating formation and growth of
 a binary drop from proximal immiscible droplets.
 
-![BDGS banner](banner.mp4)
+![BDGS banner](banner.gif)
 
 ### Developers
 Pranjal Singh, pranjal.officemail@gmail.com
