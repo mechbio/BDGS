@@ -36,7 +36,7 @@ Please refer to the websites for installation instructions of the above
 dependencies.
 
 ### Usage
-Step 0: Read the LaTeX/paper.pdf
+Step 0: Read the [paper](LaTeX/paper.pdf).
 
 Step 1: Nonequilibrium drop formed upon contact
 
