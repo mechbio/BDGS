@@ -5,9 +5,6 @@ a binary drop from proximal immiscible droplets.
 
 ![BDGS banner](banner.gif)
 
-### Developers
-Pranjal Singh, pranjal.officemail@gmail.com
-
 ### Dependencies
 1. SymPy for Python \
 Meurer, A., Smith, C.P., Paprocki M., et al. SymPy: symbolic computing in Python. PeerJ Computer Science 3:e103 (2017)
@@ -68,5 +65,29 @@ Step 4: Drop growth
 
 
 ### Development
-Please contact the Developers listed above for directions to collaborate in the
-development.
+
+With following steps you can submit fixes for open issues or you can open a new
+issue and submit fix for it:
+
+```shell
+# Fork this repository with the Fork button on top right
+# Clone it to your local system
+git clone https://github.com/<YourUserName>/BDGS.git
+# Make a new branch with issue number (e.g. 1) as branch name
+git checkout -b 1
+# Create a new remote for this upstream repo
+git remote add upstream https://github.com/modelsbox/BDGS
+# Make your changes
+...
+# Stage them and commit with the issue tag (i.e. #1 for issue number 1)
+git add .
+git commit -m "fixes #1"
+# Push it back to your repo
+git push -u origin 1
+# Click the Compare & pull request button at github.com/<YourUserName>/BDGS
+# Click Create pull request to open a new pull request.
+```
+
+### Questions, Comments, Clarifications, Requests
+
+Please use the Discussions tab. It'll be nice if you can introduce yourself to everyone in the Welcome thread.
